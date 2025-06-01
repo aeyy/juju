@@ -1,1 +1,1 @@
-# juju
+# Project Helper CLI
